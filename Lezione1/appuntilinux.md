@@ -1,4 +1,6 @@
 # Appunti linux
+![Git Icona](./img/github.jpg)
+! [GitHub icona](./img/giticon.jpg)
 
 - 'git commit' questo comando prepara i file in sessioni di stage
 
